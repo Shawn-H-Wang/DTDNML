@@ -4,7 +4,9 @@ He Wang, Yang Xu\*, Zebin Wu, Zhihui Wei
 
 Code for the paper: Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning-*TNNLS* 2024
 
-<img src="./pdf/DTDNML-Eng.png" width="666px"/>
+<div align="center">
+<img src="./pdf/DTDNML-Eng.png"/>
+</div>
 
 ## Code Running 
 Simple run ``./main.py` or `./bash.sh` demo to implement the fusion of low-resolution hyperspectral image (LR-HSI) and high-resolution multispectral image (HR-MSI) of Sandiego. (Using [PyTorch](https://pytorch.org/) with `Python 3.7` implemented on `Windows` OS or `Linux` OS)
