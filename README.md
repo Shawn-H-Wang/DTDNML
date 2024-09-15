@@ -9,7 +9,7 @@ Code for the paper: Unsupervised Hyperspectral and Multispectral Image Blind Fus
 </div>
 
 ## Code Running 
-Simple run ``./main.py` or `./bash.sh` demo to implement the fusion of low-resolution hyperspectral image (LR-HSI) and high-resolution multispectral image (HR-MSI) of Sandiego. (Using [PyTorch](https://pytorch.org/) with `Python 3.7` implemented on `Windows` OS or `Linux` OS)
+Simple run `./main.py` or `./bash.sh` demo to implement the fusion of low-resolution hyperspectral image (LR-HSI) and high-resolution multispectral image (HR-MSI) of Sandiego. (Using [PyTorch](https://pytorch.org/) with `Python 3.7` implemented on `Windows` OS or `Linux` OS)
 
 - Before: For the required packages, please refer to detailed `.py` files.
 - Parameters: The trade-off parameters as `train_opt.lambda_*` could be better tuned and the network hyperparameters are flexible.
