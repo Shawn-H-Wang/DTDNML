@@ -1,0 +1,3 @@
+================ Training Loss (Sun Sep 15 14:32:33 2024) ================
+================ Training Loss (Sun Sep 15 14:45:35 2024) ================
+(epoch: 100, iters: 1, time: 0.993) lr_pixelwise: 25443.221 rec: 74526.969 rec_orthg: 38985.180 msi_pixelwise: 49083.750 manifold: 90.136 manifold_spa: 8696.746 msi_ss_msi: 26251.221 msi_ss_lr: 14202.367 lrmsi_pixelwise: 181.499 joint: 117575.656 

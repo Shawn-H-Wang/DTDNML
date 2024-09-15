@@ -1,0 +1,3 @@
+================ Precision Log (Sun Sep 15 14:32:33 2024) ================
+================ Precision Log (Sun Sep 15 14:45:35 2024) ================
+Epoch:101.0 Name:Sandiego RMSE:0.08266 PSNR:18.86433 SAM:46.20098 ERGAS:13.796 SSIM:0.01476 UQI:0.55739
