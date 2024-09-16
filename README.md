@@ -14,7 +14,7 @@ Simple run `./main.py` or `./bash.sh` demo to implement the fusion of low-resolu
 - Before: For the required packages, please refer to detailed `.py` files.
 - Parameters: The trade-off parameters as `train_opt.lambda_*` could be better tuned and the network hyperparameters are flexible.
 - Results: Please see the five evaluation metrics (PSNR, SAM, ERGAS, SSIM, and UIQI) logged in `./checkpoints/*name*/precision.txt` and the output `.mat` files saved in `./Results/*name*/`.
-- Runtime: ca. 30 mins per HSI using a single GTX3090.
+- Runtime: ca. 30 mins per HSI using a single RTX3090.
 
 :exclamation: You may need to manually simulate the two HSIs to your local in the folder under path `./main.py`. The simulation code implemented via MATLAB will be provided in this repository.
 
