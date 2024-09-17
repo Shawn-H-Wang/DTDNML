@@ -25,7 +25,7 @@ If you find this code helpful, please kindly cite:
 
 or
 
-[1] Wang, He, et al. "Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning." In *IEEE Transactions on Neural Network and Learning System* (2024), DOI:10.48550/arXiv.2409.09670.
+[1] Wang, He, et al. "Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning." In *arXiv preprint arXiv:2409.09670 (2014)*.
 
 ## Citation Details
 ```
