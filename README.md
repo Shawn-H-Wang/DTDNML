@@ -2,7 +2,7 @@
 
 He Wang, Yang Xu\*, Zebin Wu, Zhihui Wei
 
-Code for the paper: Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning-*TNNLS* 2024
+Code for the paper: [Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning](https://arxiv.org/abs/2409.09670)-*TNNLS* 2024
 
 <div align="center">
 <img src="./pdf/DTDNML-Eng.png"/>
