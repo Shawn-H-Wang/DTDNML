@@ -2,7 +2,7 @@
 
 He Wang, Yang Xu\*, Zebin Wu, Zhihui Wei
 
-Code for the paper: [Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning](https://arxiv.org/abs/2409.09670)-*TNNLS* 2024
+Code for the paper: [Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning](https://ieeexplore.ieee.org/document/10705122)-*TNNLS* 2024
 
 <div align="center">
 <img src="./pdf/DTDNML-Eng.png"/>
@@ -23,33 +23,19 @@ If you find this code helpful, please kindly cite:
 
 [1] Wang, He, et al. "Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning." In *IEEE Transactions on Neural Network and Learning System* (2024), DOI:10.1109/TNNLS.2024.3457781.
 
-or
-
-[1] Wang, He, et al. "Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning." In *arXiv preprint arXiv:2409.09670 (2014)*.
 
 ## Citation Details
 ```
-@article{DTDNML,
-	title={Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning},  
-	author={Wang, He and Xu, Yang and Wu, Zebin and Wei, Zhihui},  
-	journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-	volume={}, 
-	pages={}, 
-	year={2024}, 
-	publisher={IEEE}, 
-	note = {},
-    doi={10.1109/TNNLS.2024.3457781}
-}
-```
-
-Our work has also been accepted by TNNLS and is currently being published. The preprint version has been uploaded to arXiv. If you have not retrieved our work in IEEE and wish to cite it, please use the preprint version citation.
-
-```
-@article{DTDNML,
-  title={Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning},
-  author={Wang, He and Xu, Yang and Wu, Zebin and Wei, Zhihui}, 
-  journal={arXiv preprint arXiv:2409.09670},
-  year={2024}
+@ARTICLE{10705122,
+  author={Wang, He and Xu, Yang and Wu, Zebin and Wei, Zhihui},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network With Spatial–Spectral Manifold Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Tensors;Matrix decomposition;Feature extraction;Hyperspectral imaging;Superresolution;Manifold learning;Convolutional neural networks;Sparse matrices;Mathematical models;Decoding;Blind fusion;deep Tucker decomposition;hyperspectral image (HSI);manifold learning},
+  doi={10.1109/TNNLS.2024.3457781}
 }
 ```
 
