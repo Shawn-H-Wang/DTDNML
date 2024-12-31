@@ -62,5 +62,3 @@ School of Computer Science and Engineering
 Nanjing University of Science and Technology
 <br>
 Email: he_wang@njust.edu.cn
-<br>
-WeChat: shawn_he_wang
